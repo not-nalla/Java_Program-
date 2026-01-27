@@ -37,3 +37,30 @@ from another class, which is also derived from another class.
 ## Output
 <img width="255" height="73" alt="image" src="https://github.com/user-attachments/assets/afe61936-d81f-45a9-baa5-75c981c89fb5" />
 
+## String Function in Java
+
+ Overview
+The program:
+- Uses `Scanner` to read input from the user
+- Applies built-in Java `String` methods
+- Prints results of each operation to the console
+
+##  String Methods Used
+
+- `toLowerCase()`
+- `toUpperCase()`
+- `length()`
+- `replace()`
+- `trim()`
+- `equals()`
+- `equalsIgnoreCase()`
+- `charAt()`
+- `concat()`
+- `substring()`
+- `indexOf()`
+- `lastIndexOf()`
+
+## Output
+<img width="461" height="429" alt="image" src="https://github.com/user-attachments/assets/e7eeba28-14d9-46df-8828-ae1ce66e5429" />
+
+
