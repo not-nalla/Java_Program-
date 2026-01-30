@@ -63,4 +63,34 @@ The program:
 ## Output
 <img width="461" height="429" alt="image" src="https://github.com/user-attachments/assets/e7eeba28-14d9-46df-8828-ae1ce66e5429" />
 
+## Exception Handling in Java (ArithmeticException – Divide by Zero)
+
+Exception handling in Java is a mechanism used to handle runtime errors and maintain the normal flow of a program.
+
+When a number is divided by zero, Java throws an **ArithmeticException**. This exception can be handled using the **try**, **catch**, and **finally** blocks to prevent the program from crashing.
+
+---
+
+## try Block
+The `try` block contains code that may cause an exception.  
+In a division operation, dividing a number by zero is a risky operation and can trigger an `ArithmeticException`.
+
+---
+
+## catch Block
+The `catch` block is used to handle the exception.  
+When division by zero occurs, the `catch (ArithmeticException e)` block executes and displays an error message instead of terminating the program.
+
+---
+
+## finally Block
+The `finally` block always executes, regardless of whether an exception occurs or not.  
+It is commonly used to display confirmation messages or perform cleanup operations.
+
+---
+
+## Output 
+<img width="273" height="112" alt="image" src="https://github.com/user-attachments/assets/12dee12f-392e-43f1-b17a-8b6f8f8efe08" />
+
+
 
