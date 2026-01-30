@@ -1,0 +1,22 @@
+import java.util.Scanner;
+class Exception{
+    public static void main(String[] args) {
+        Scanner s1=new Scanner(System.in);
+        try{
+            System.out.print("Enter 1 no :");
+            int a=s1.nextInt();
+            System.out.print("Enter 2 no :");
+            int b=s1.nextInt();
+            int result= a/b;
+            System.out.println("Result :"+result);
+        }
+
+        catch(ArithmeticException e){
+            System.out.println(e.getMessage());
+        }
+
+        finally{
+            System.out.println("Executes in any term");
+        }
+    }
+}
