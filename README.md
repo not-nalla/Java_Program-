@@ -88,5 +88,27 @@ It is commonly used to display confirmation messages or perform cleanup operatio
 ## Output 
 <img width="273" height="112" alt="image" src="https://github.com/user-attachments/assets/12dee12f-392e-43f1-b17a-8b6f8f8efe08" />
 
+---
+##Swapping Numbers 
+
+This program demonstrates swapping of two numbers in Java
+using a temporary variable.
+
+## The program:
+1. Takes two integer values from the user.
+2. Displays the original values.
+3. Swaps the values using a third variable (temp).
+4. Displays the values after swapping.
+
+## Concepts Used:
+- Scanner class for input
+- Variables
+- Temporary variable swapping logic
+- Basic input/output
+
+## Output
+<img width="346" height="208" alt="image" src="https://github.com/user-attachments/assets/4c8be26f-aa8e-4546-b975-423a6c7a237d" />
+
+
 
 
