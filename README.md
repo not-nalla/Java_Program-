@@ -89,7 +89,7 @@ It is commonly used to display confirmation messages or perform cleanup operatio
 <img width="273" height="112" alt="image" src="https://github.com/user-attachments/assets/12dee12f-392e-43f1-b17a-8b6f8f8efe08" />
 
 ---
-##Swapping Numbers 
+## Swapping Numbers 
 
 This program demonstrates swapping of two numbers in Java
 using a temporary variable.
